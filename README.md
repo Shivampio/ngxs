@@ -25,5 +25,5 @@ npm run server
 ### To build for production
 
 ```
-ng build 
+ng build
 ```
